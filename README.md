@@ -1,5 +1,8 @@
 # Simon Says Project (Instructions to enable Vue Devtools to Vue 3 below)
 
+## Github pages
+https://alexander777kr.github.io/game-simon-says/
+
 ## How to enable vue devtools to this project
 1. If Vue Devtools in chrome browser does not work, please install the latest beta version of the extension from here:
 https://headwayapp.co/vue-js-devtools-changelog/timeline-and-api-166716
